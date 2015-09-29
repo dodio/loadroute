@@ -1,0 +1,24 @@
+{
+  "name": "loadroute",
+  "version": "1.0.0",
+  "description": "autoload routers to express app or router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodio/loadroute.git"
+  },
+  "keywords": [
+    "express",
+    "autoload",
+    "routers"
+  ],
+  "author": "dodio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodio/loadroute/issues"
+  },
+  "homepage": "https://github.com/dodio/loadroute#readme"
+}
